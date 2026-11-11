@@ -1,5 +1,6 @@
-header, p {
+header, p, h2 {
     text-align: center;
+    color: white;
 }
 
 img {
@@ -26,4 +27,6 @@ a {
     background: rgba(255,255,255,0.12);
     border-radius: 6px;
 }
+
+
 
