@@ -8,15 +8,15 @@ img {
     border: 1px black solid;
 }
 
-body {
+.bod {
     background-image: url(drapeau-ile-maurice-gros-plan.avif);
     background-size: cover;
     background-attachment: fixed;
 }
 
-p {
+.p1 {
     top: 60%;
-    margin-top: 10vh
+    margin-top: 7vh
 }
 
 a {
@@ -26,3 +26,4 @@ a {
     background: rgba(255,255,255,0.12);
     border-radius: 6px;
 }
+
