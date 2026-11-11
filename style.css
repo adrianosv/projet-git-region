@@ -28,5 +28,8 @@ a {
     border-radius: 6px;
 }
 
-
+.s1 {
+    display: flex;
+    justify-content: space-between;
+}
 
