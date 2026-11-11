@@ -33,3 +33,14 @@ a {
     justify-content: space-between;
 }
 
+.s2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 13px;
+}
