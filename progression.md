@@ -7,3 +7,5 @@ Ajout de la page hébergement.html et aussi d'une autre page acces.html
 Mise en place du contenu, et nouveaux liens dans le menu
 <br>
 Modification de la page hébergement, ajout des lieux, et de leur descriptif
+<br>
+Modification de la page Accès et Hébergement
